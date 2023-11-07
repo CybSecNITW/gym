@@ -1,0 +1,11 @@
+username: 625e843d110faee1
+password: ed6fcecd4d6a4290aca5d7fbff8baef878e7603e7f007d44cc8ccb59eee80a9720d841b566fe70446afee4c8b1488a2ccc37eca9e42d8db7bfa79d451178fb71
+
+You can create an inline link by wrapping link text in brackets [ ], and then wrapping the URL in parentheses ( ). You can also use the keyboard shortcut Command+K to create a link. When you have text selected, you can paste a URL from your clipboard to automatically create a link from the selection.
+
+You can also create a Markdown hyperlink by highlighting the text and using the keyboard shortcut Command+V. If you'd like to replace the text with the link, use the keyboard shortcut Command+Shift+V.
+
+This site was built using [GitHub Pages](https://pages.github.com/).
+
+
+
